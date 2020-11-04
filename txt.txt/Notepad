@@ -1,0 +1,105 @@
+1.Keywords
+
+2.Identifers
+
+Keyword
+-------
+auto		double	int			struct
+char		extern	return		union
+break		else	long		switch
+case		enum	register	typedef
+const		float	short		unsigned
+continue	for		signed		void
+do			if		static		while
+default		goto	sizeof		volatile
+
+Identifier(variable or constant)
+
+angle = 90
+phone = 998889998
+age = 887766
+height = 6'
+weight
+BMI
+
+Rules for Constructing Identifer
+-------------------------
+1. an identifier is start with alpha or (underscore) _ . 
+2. it contains characters, special characters, and numbers (phone1, phone2, phone_home, phone_office,)
+3. no spaces in idetifer(phone work)
+4. don't use keyword as identifiers.
+5. start with small letter, new word in capital
+6. idetifier length is less than or equals 31 characters
+7. name != namE
+
+Datatypes
+---------
+	Primitive
+	---
+	Interger: int
+	real : float, double
+	character: char
+
+
+
+Mobile Specification
+--------------------
+brand : charater
+model: charater
+price: real
+ram: integer
+internalStorage: interger
+rom: integer
+camera: integer
+processor: character
+size: real
+batter: int
+displayType: charater
+
+Best Practices for code:
+------------------------
+1. identifers are start with small letter
+2. intendation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+int num1;
+printf("Enter number1:");
+scanf("%d",&num1);
+
+Problems
+--------
+sum of first n digits
+find slop of two points
+handshake Problem
+find two lines are intersecting or parallel
+distance between two points
+find area of a triangle when you have sides.
+find area of a triangle when you have height and base.
+
+
+

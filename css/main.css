@@ -1,0 +1,39 @@
+h1{
+  background-color: blueviolet;
+  text-align: center;
+  color: white;
+}
+div{
+  margin-left: 10px;
+}
+h3{
+  margin-left: 10px;
+}
+span{
+  background-color: tomato;
+  color: aliceblue;
+  padding: 15px;
+}
+ul,li{
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+table {
+  border-collapse: collapse;
+  width: auto;
+  margin-left: 10px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

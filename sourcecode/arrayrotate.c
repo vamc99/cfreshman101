@@ -25,7 +25,8 @@ int main(){
   for(int i=0,j = n-r;i<r;i++,j++){
 	  c[j] = b[i];
   }
-  for(int i=0;i<n;i++){
+  for(int i=0;i<n;i++)
+  {
     printf("%d ",c[i]);
   }
 }

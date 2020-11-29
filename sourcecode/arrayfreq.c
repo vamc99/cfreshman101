@@ -15,7 +15,6 @@ out put
 #include<limits.h>
 int main()
 {
-  /* code */
   int n, max=INT_MIN;
   scanf("%d",&n);
   int a[n];
